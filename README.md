@@ -5,7 +5,8 @@ uncrustify settings for cpp.
 code formatter for Xcode
 
 #install uncrustify
-curl -SL https://raw.githubusercontent.com/benoitsan/BBUncrustifyPlugin-Xcode/master/install.sh | sh
+`curl -SL https://raw.githubusercontent.com/benoitsan/BBUncrustifyPlugin-Xcode/master/install.sh | sh`
 
 #install this setting
 just place uncrustify.cfg on your project root.
+`wget https://raw.githubusercontent.com/h-iwata/uncrustify-cpp.cfg/master/uncrustify.cfg`
