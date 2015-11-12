@@ -9,4 +9,5 @@ code formatter for Xcode
 
 #install this setting
 just place uncrustify.cfg on your project root.
+
 `wget https://raw.githubusercontent.com/h-iwata/uncrustify-cpp.cfg/master/uncrustify.cfg`
